@@ -1,4 +1,4 @@
-# Bonjour, je suis Maksew ! 👋
+# Bonjour, je suis Maksew (Maxime) ! 👋
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur de logiciels passionné, dédié au développement d'applications innovantes et à l'exploration des nouvelles technologies. Ici, vous trouverez un aperçu de mes projets, reflétant mon parcours et mes compétences.
 
@@ -70,7 +70,6 @@ Au fil de mon parcours, j'ai développé un éventail de compétences techniques
 - **Outils et Environnements de Développement** : L'utilisation efficace d'outils tels que Docker et Git est essentielle dans mes projets. Docker me permet de conteneuriser des applications, garantissant leur portabilité et cohérence à travers différents environnements. Git, quant à lui, est central pour la gestion de versions, me permettant de suivre les changements, de collaborer efficacement avec d'autres développeurs et de maintenir une historique claire du projet.
 
 En somme, ces compétences me positionnent comme un développeur polyvalent et adaptable, capable de relever des défis variés dans le domaine du développement logiciel. Elles reflètent mon engagement à apprendre, à innover et à fournir des solutions technologiques de haute qualité.
-
 
 ## Statistiques GitHub 📈
 
