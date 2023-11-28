@@ -41,16 +41,16 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur de logiciels passionn�
 ## Projets Préférés 🚀
 
 - [SkinPortGestion](https://github.com/Maksew/SkinPortGestion) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - Système de gestion de skins, conçu en Python pour une gestion efficace.
+  - Système de gestion de skins, conçu en Python pour une gestion efficace. Ce projet illustre mon aptitude à gérer des systèmes d'information complexes (Compétence UE6.3) et à développer des solutions logicielles adaptées aux besoins des utilisateurs (Compétence UE5.4).
 
 - [WebPageAutoF5](https://github.com/Maksew/WebPageAutoF5) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - Outil Python permettant de rafraîchir automatiquement les pages web, utile pour des applications comme PowerBI.
+  - Outil Python permettant de rafraîchir automatiquement les pages web, utile pour des applications comme PowerBI. Ce script, qui automatise l'actualisation des pages web PowerBI, montre ma capacité à optimiser les processus et à travailler avec des systèmes d'information en réseau (Compétence UE4.3).
 
 - [Laravel-WebCars](https://github.com/Maksew/Laravel-WebCars) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  - Site web de gestion de voitures avec fonctionnalités de notation et d'avis, développé en Laravel.
+  - Site web de gestion de voitures avec fonctionnalités de notation et d'avis, développé en Laravel. Développer ce site web m'a permis d'appliquer des compétences en analyse et en conception de systèmes d'information (Compétence UE5.5), tout en intégrant des retours utilisateurs pour l'amélioration continue (Compétence UE2.5).
 
 - [StarsPerlinAnimationGif](https://github.com/Maksew/StarsPerlinAnimationGif) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - Générateur d'animations GIF de constellations, utilisant le bruit de Perlin pour créer des frames dynamiques en Python.
+  - Générateur d'animations GIF de constellations, utilisant le bruit de Perlin pour créer des frames dynamiques en Python. En utilisant le bruit de Perlin, ce projet démontre ma compréhension des principes mathématiques et informatiques (Compétence UE3.2) dans la création de solutions visuelles.
 
 - [TodoListKotlin](https://github.com/Maksew/TodoListKotlin) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
   - Application mobile de gestion de tâches, développée en Kotlin.
@@ -59,15 +59,31 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur de logiciels passionn�
 
 Au fil de mon parcours, j'ai développé un éventail de compétences techniques et professionnelles qui me permettent de m'adapter et d'exceller dans divers contextes de développement. Voici un aperçu plus détaillé :
 
-- **Développement Web et Mobile** : Ma maîtrise des technologies front-end et back-end est le fruit d'une expérience pratique et d'une formation continue. J'ai conçu et développé des applications web dynamiques et des applications mobiles réactives, en utilisant des langages de programmation modernes et des frameworks innovants. Cette compétence me permet de créer des interfaces utilisateur engageantes, des architectures back-end robustes et des expériences utilisateur fluides.
+- **Développement Logiciel** : Mon expérience chez Legrand a été déterminante, m'ayant permis de développer et déployer une application critique alignée avec les normes de qualité ISO 9001, reflétant la compétence UE5.3. Cette application a joué un rôle essentiel dans le contrôle qualité et a illustré ma capacité à répondre aux standards élevés du secteur industriel.
 
-- **Qualité de Code et Bonnes Pratiques** : Je suis fermement engagé à maintenir la plus haute qualité de code dans tous mes projets. Cela comprend l'adhésion aux principes SOLID, l'écriture de code propre et maintenable, et l'utilisation de techniques de refactoring pour améliorer continuellement la base de code. Je suis également attentif à l'optimisation des performances et à la sécurité du code, garantissant ainsi que les applications sont non seulement fonctionnelles mais aussi fiables et sécurisées.
+J'ai également mis en œuvre des solutions d'automatisation qui ont optimisé la gestion des données et la maintenance systémique, ce qui correspond à la compétence UE6.2. Un script significatif que j'ai développé ciblait l'optimisation du traitement de données de tests pour les cartes électroniques. En analysant et en filtrant les informations cruciales à partir de rapports XML, le script a rationalisé l'intégration des données dans une base de données SQL, améliorant ainsi les processus opérationnels.
 
-- **Base de Données et Gestion de Données** : Mes compétences en gestion de bases de données SQL impliquent la conception, l'implémentation et la maintenance de bases de données efficaces et évolutives. J'ai une expérience approfondie dans la modélisation de données, la création de requêtes complexes, et l'optimisation des performances des bases de données. Cette expertise est cruciale pour assurer l'intégrité, la performance et la scalabilité des applications.
+Par ailleurs, j'ai créé un outil d'automatisation pour actualiser les pages web PowerBI, disponible sur mon [GitHub](https://github.com/Maksew/WebPageAutoF5). Cet outil a non seulement augmenté l'efficacité des opérations de reporting mais a aussi démontré mon habileté à manipuler les données et à concevoir des scripts répondant précisément aux exigences des projets d'entreprise.
 
-- **Méthodologies Agiles et Gestion de Projet** : J'ai adopté les méthodologies agiles dans la gestion de projets, ce qui me permet d'être flexible et réactif face aux changements. Ma pratique de l'agilité inclut la planification itérative, le développement incrémentiel, les stand-ups quotidiens, et les rétrospectives. Cela facilite la collaboration d'équipe, améliore la communication et augmente l'efficacité globale du processus de développement.
 
-- **Outils et Environnements de Développement** : L'utilisation efficace d'outils tels que Docker et Git est essentielle dans mes projets. Docker me permet de conteneuriser des applications, garantissant leur portabilité et cohérence à travers différents environnements. Git, quant à lui, est central pour la gestion de versions, me permettant de suivre les changements, de collaborer efficacement avec d'autres développeurs et de maintenir une historique claire du projet.
+- **Qualité de Code et Bonnes Pratiques** : En adhérant aux principes SOLID et en pratiquant un refactoring régulier, je maintiens une haute qualité de code, conforme aux bonnes pratiques de développement (Compétence UE3.3). La sécurité et l'optimisation des performances sont toujours prioritaires pour garantir la fiabilité des applications (Compétence UE5.1).
+
+  Pour assurer une base de code robuste et évolutive, j'applique régulièrement des techniques de refactoring, améliorant la lisibilité et la modularité du code. Cette pratique est essentielle non seulement pour maintenir une haute qualité de code mais aussi pour faciliter la collaboration en équipe.
+
+  La sécurité du code est une autre de mes priorités. Je m'attache à isoler et sécuriser les variables sensibles, notamment les données d'authentification et les informations confidentielles, pour prévenir tout risque de faille de sécurité. De plus, je porte une attention particulière à l'optimisation des performances, veillant à ce que les applications soient rapides, efficaces et capables de gérer des charges de travail importantes sans compromettre la stabilité ou la sécurité.
+
+  Ces pratiques sont devenues une seconde nature dans mes projets, qu'ils soient professionnels ou personnels, me permettant de garantir que les applications développées sont non seulement fonctionnelles mais aussi fiables et sécurisées.
+
+
+- **Base de Données et Gestion de Données** : La conception, l'implémentation et la maintenance de bases de données SQL font appel à mes compétences en modélisation et en optimisation des données (Compétence UE6.1), essentielles pour la performance et la scalabilité des applications.
+  
+- **Méthodologies Agiles et Gestion de Projet** :Mon expérience chez Legrand a renforcé ma pratique des méthodologies agiles (Compétence UE5.2), notamment l'utilisation de tableaux Kanban pour la gestion visuelle des tâches et le suivi des projets.
+
+  L'emploi de tableaux Kanban, que j'ai eu l'occasion de mettre en pratique chez Legrand, est central dans ma méthode de travail. Cette approche m'a permis de visualiser clairement le flux de tâches, de prioriser les activités et de suivre l'avancement en temps réel. Elle a significativement contribué à l'organisation et à l'efficacité de la gestion de projet, offrant une vue d'ensemble des tâches en cours, à venir et achevées.
+
+  Les stand-ups quotidiens, intégrés dans ma routine lors de ce stage, sont devenus une pratique clé, offrant l'opportunité de partager les avancées, de discuter des obstacles et de planifier les étapes suivantes. Ces réunions courtes mais productives ont renforcé la cohésion de mon équipe chez Legrand et ont assuré que tout le monde était aligné sur les objectifs du projet.
+
+- **Outils et Environnements de Développement** :La conteneurisation avec Docker et la gestion de versions avec Git (Compétence UE4.2) sont des compétences que j'applique régulièrement pour assurer la portabilité et la maintenance efficace des applications.
 
 ## Statistiques GitHub 📈
 
